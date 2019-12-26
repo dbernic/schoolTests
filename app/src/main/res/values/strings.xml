@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tests</string>
+    <string name="prepare">Prepare</string>
+    <string name="lesson">Lesson</string>
+    <string name="question">Question</string>
+    <string name="new_test">New test</string>
+    <string name="answer">Answer</string>
+    <string name="correct">Correct</string>
+    <string name="incorrect">Incorrect</string>
+    <string name="total">Total</string>
+    <string name="tot_correct">Correct:</string>
+    <string name="tot_incorr">Incorrect:</string>
+</resources>

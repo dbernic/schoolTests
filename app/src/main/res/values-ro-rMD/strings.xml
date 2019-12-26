@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Teste</string>
+    <string name="prepare">Prepararea</string>
+    <string name="lesson">Lectie</string>
+    <string name="question">Intrebare</string>
+    <string name="new_test">Test nou</string>
+    <string name="answer">Raspuns</string>
+    <string name="correct">Corect</string>
+    <string name="incorrect">Nu corect</string>
+    <string name="total">Total</string>
+    <string name="tot_correct">Corecte:</string>
+    <string name="tot_incorr">Incorecte:</string>
+</resources>

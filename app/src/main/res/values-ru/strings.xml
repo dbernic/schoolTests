@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Тесты</string>
+    <string name="prepare">Подготовка</string>
+    <string name="lesson">Урок</string>
+    <string name="question">Вопрос</string>
+    <string name="new_test">Новый тест</string>
+    <string name="answer">Ответ</string>
+    <string name="correct">Правильный</string>
+    <string name="incorrect">Неправильный</string>
+    <string name="total">Итого</string>
+    <string name="tot_correct">Правильных:</string>
+    <string name="tot_incorr">Неправильных:</string>
+</resources>
